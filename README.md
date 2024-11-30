@@ -1,3 +1,3 @@
 # horizontal-scrolling-card
-#Demo
+# Demo
 https://novgyantoro.github.io/horizontal-scrolling-card/
